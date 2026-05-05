@@ -1,4 +1,5 @@
-Weather App
+Weather App:
+
 Search any city in the world and get live weather updates in seconds. Simply type a city name and hit search to instantly see the current temperature in Celsius, humidity percentage and wind speed. The app also displays a weather icon that changes based on current conditions whether it's clear skies, clouds, rain, drizzle, mist or snow, giving you a quick visual snapshot of the weather wherever you need it.
 
 Features:
@@ -17,7 +18,9 @@ Built With:
 
 API Reference:
 This app uses the OpenWeatherMap Current Weather API:
+
 https://api.openweathermap.org/data/2.5/weather?q={city}&units=metric&appid={apiKey}
+
 
 Notes:
 - Temperature is displayed in Celsius
