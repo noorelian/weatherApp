@@ -17,10 +17,7 @@ Built With:
 - OpenWeatherMap API
 
 API Reference:
-This app uses the OpenWeatherMap Current Weather API:
-
-https://api.openweathermap.org/data/2.5/weather?q={city}&units=metric&appid={apiKey}
-
+This app uses the OpenWeatherMap Current Weather API
 
 Notes:
 - Temperature is displayed in Celsius
