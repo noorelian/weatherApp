@@ -6,12 +6,15 @@
 }
 
 body{
-    background: #cce7ff;
+    /*background: #cce7ff;*/
+    background: url("images/klickblick-clouds-4215608.jpg");
+    background-size: cover;
 }
 .card{
     width:90%;
     max-width: 500px;
-    background: linear-gradient(to right, #87ceeb, #4682b4, #1e3a8a);
+  /*  background: linear-gradient(to right, #87ceeb, #4682b4, #1e3a8a);background: url("images/klickblick-clouds-4215608.jpg");*/
+    background-color: rgba(255, 255, 255, 0.15);
     color: white;
     margin: 100px auto 0;
     border-radius: 20px;
