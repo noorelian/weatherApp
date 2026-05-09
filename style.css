@@ -32,7 +32,8 @@ body{
 .search-box input{
     border: none;
     outline: none;
-    background: #ebfffc;
+   /* background: #ebfffc;*/
+    background: white;
     color: #555;
     padding: 10px 25px;
     height: 60px;
@@ -45,7 +46,8 @@ body{
 .search-box button{
     border: none;
     outline: none;
-    background: #ebfffc;
+    /*background: #ebfffc;*/
+    background: white;
     border-radius: 50%;
     width: 60px;
     height: 60px;
